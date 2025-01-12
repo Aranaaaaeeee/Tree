@@ -1,7 +1,7 @@
 import java.util.Hashtable;
 import java.util.Scanner;
 
-public class GradebookApp {
+public class Hash {
     public static void main(String[] args) {
         // Hashtable to store student names and grades
         Hashtable<String, Integer> gradebook = new Hashtable<>();
